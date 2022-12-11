@@ -6,4 +6,8 @@
 *~JS*
 *~PS*
 *~AE*
+## **Hobbies:**
+*Cryptocurrencies*
+*WEB 3.0*
+*Music*
 
