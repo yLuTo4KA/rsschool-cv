@@ -2,8 +2,8 @@
 ### Student Polytech Astana, rs_school student, developer from KZ
 ## **Skills:**
 *~HTML*
-*(/rsschool/CSS3_logo.svg.png)CSS*
+*~CSS*
 *~JS*
 *~PS*
 *~AE*
- 
+
