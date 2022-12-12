@@ -23,7 +23,7 @@ body{
 .LeftBox img{
     margin-top: 5%;
     width: 290px;
-    height: 290px;
+    height: 350px;
     border: 5px dashed #ffc221;
     box-shadow: 200px #ffc221;
     margin-bottom: 5%;
@@ -44,7 +44,7 @@ body{
 }
 .NamesInfo{
     position: absolute;
-    top: 400px;
+    top: 460px;
     left: 20px;
     text-transform: uppercase;
     color: #ffc221;
@@ -89,10 +89,29 @@ top: 90px;
 .lang{
     max-width: 361px;
     position: absolute;
-    top: 140px;
+    top: 133px;
     display: flex;
     justify-content: flex-start;
 }
+.lang_rating{
+    color: white;
+    position: absolute;
+    top: 165px;
+    font-size: 15px;
+    display: flex;
+}
+#ru{
+    margin-left: 7px;
+}
+#eng{
+    margin-left: 45px;
+}
+
+#deutsch{
+    margin-left: 65px;
+    
+}
+
 /* RIGHT PANEL */
 
 
