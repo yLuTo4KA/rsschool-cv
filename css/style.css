@@ -228,7 +228,7 @@ top: 90px;
 }
 
 .button1{
-    margin-top: 20px;
+    margin-top: 90px;
     width: 80%;
     height: 25%;
     background-color: #202020;
@@ -285,3 +285,70 @@ top: 90px;
     height: 30%;
     transition: 1s;
 }
+.Main_information{
+    width: 100%;
+    display: flex;
+    justify-content: center;
+    letter-spacing: 5px;
+    margin-top: 80px;
+    color: white;
+    font-size: 40px;
+    
+}
+.Main_information_text{
+    width: 800px;
+    text-align: center;
+    position: absolute;
+    top: 160px;
+    display: none;
+    font-size: 25px;
+    transition: display 1s;
+}
+.button1:hover .Main_information_text{
+    display: block;
+}
+.button1:hover .Main_information{
+    font-size: 25px;
+    margin-top: 20px;
+}
+.Main_information_text2{
+    width: 850px;
+    text-align: left;
+    position: absolute;
+    top: 445px;
+    margin-left: 100px;
+    display: none;
+    font-size: 25px;
+    transition: display 1s;
+}
+.Main_information_text2 li{
+    margin-bottom: 15px;
+}
+.button2:hover .Main_information_text2{
+    display: block;
+}
+.button2:hover .Main_information{
+    font-size: 25px;
+    margin-top: 20px;
+}
+.Main_information_text3{
+    width: 850px;
+    text-align: left;
+    position: absolute;
+    top: 725px;
+    display: none;
+    font-size: 25px;
+}
+.button3:hover .Main_information_text3{
+    display: block;
+    display: flex;
+    justify-content: space-around;
+    
+}
+.button3:hover .Main_information{
+    font-size: 25px;
+    margin-top: 20px;
+}
+
+
+
